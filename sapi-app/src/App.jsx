@@ -9,7 +9,7 @@ function App() {
   return (
     <>
       
-        <div className='font-bold text-gray-900 text-[900px]'>
+        <div className='font-bold text-gray-900 text-[20px] xl:text-[500px] lg:text-[400px] md:text-[30px]'>
           sapigow 
         </div>
     </>
